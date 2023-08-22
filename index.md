@@ -2,19 +2,13 @@
 # Work Experience
 
 ## Genentech 
-<img  src="images/gene.png"/>
+<center><img  src="images/team.JPG"/></center>
+
 **Location:**  Oceanside, California
-
-  
-
 ### Data Analyst & Strategy Deployment Intern
 
 In my role, I worked closely with the Chief of Staff to drive strategic initiatives and optimize business processes. I identified use cases for RPA and supported resource management enhancements. This included creating interactive Tableau reports and assisting in the digitalization of huddle cascading and strategy deployment to enhance stakeholder connections.
   
-
-
-  
-
 **Key Accomplishments** 
 1.  Enhanced Tableau dashboards for deviation management, resulting in a 73% reduction in machinery failures by assisting discrepancy owners in root cause analysis and corrective action planning.
     
@@ -32,7 +26,6 @@ In my role, I worked closely with the Chief of Staff to drive strategic initiati
 
  
  
-<center><img  src="images/team.JPG"/></center>
 
 ---
 

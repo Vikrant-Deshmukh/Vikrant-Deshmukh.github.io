@@ -2,7 +2,7 @@
 # Work Experience
 
 ## Genentech 
-<center><img  src="images/Team1.png"/></center>
+<center><img  src="images/Team 2.png"/></center>
 
 **Location:**  Oceanside, California
 ### Data Analyst & Strategy Deployment Intern
@@ -71,53 +71,26 @@ In summary, our NLP-based solution using BERTopic improved UPE analysis, enhanci
 
 <br>
 
-  
-
----
-
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
-
-  
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
-
-  
-
-<div  style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-
-<br>
-
-<center><img  src="images/detect-spam-nlp.png"/></center>
-
-<br>
-
-  
-
 ---
 
 ## Projects: Data Science & Business Analytics
 
   
 
-### Credit Risk Prediction Web App
+### Google Page KPI Analytics
 
   
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Dashboard ](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vikrant.deshmukh3199/viz/GoogleSiteAnalytics/Dashboard)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
 
   
 
-<div  style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div  style="text-align: justify">The Google Site KPI Analysis Tableau Dashboard project aims to create an intuitive tool for monitoring website performance. By collecting data from Google Analytics and other sources, the Tableau dashboard will provide customizable, interactive views of key metrics. This project includes data cleansing, advanced analytics, and dynamic filtering to support data-driven decision-making. Ultimately, it empowers businesses to optimize their online presence and user experiences through a user-friendly, real-time dashboard.</div>
 
 <br>
 
-<center><img  src="images/credit-risk-webapp.png"/></center>
+<center><img  src="images/Google.png"/></center>
 
 <br>
 

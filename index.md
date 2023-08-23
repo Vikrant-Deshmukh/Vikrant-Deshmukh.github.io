@@ -2,7 +2,7 @@
 # Work Experience
 
 ## Genentech 
-<center><img  src="images/team.JPG"/></center>
+<center><img  src="images/Team1.png"/></center>
 
 **Location:**  Oceanside, California
 ### Data Analyst & Strategy Deployment Intern

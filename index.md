@@ -41,7 +41,7 @@ In summary, our NLP-based solution using BERTopic improved UPE analysis, enhanci
 
   
 
-<center><img  src="images/bert.png"/></center>
+<center><img  src="images/topic.png"/></center>
 
   
 

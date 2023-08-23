@@ -97,21 +97,18 @@ In summary, our NLP-based solution using BERTopic improved UPE analysis, enhanci
 
 ---
 
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Google Site Marketing Visual Analytics
+
+  
+[![Open Dashboard](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vikrant.deshmukh3199/viz/MKTG542MarketingVisualAnalyticsProject/Dashboard)
 
   
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-
-  
-
-<div  style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div  style="text-align: justify">Monitor website performance using key performance indicators (KPIs) like global site visits from different regions, daily visits, page views per visitor, daily unique visitors, time on page per visitor, daily downloads, and goal conversion. This project will gather data from Google Analytics and other relevant sources and transform it into a user-friendly, real-time Tableau dashboard. The dashboard will provide customizable, interactive views of these crucial KPIs, enabling businesses to optimize their online presence and enhance user experiences through data-driven decision-making</div>
 
 <br>
 
-<center><img  src="images/ames-house-price.jpg"/></center>
+<center><img  src="images/Website.png/></center>
 
 <br>
 

@@ -1,6 +1,4 @@
 
-# Work Experience
-
 <center><img  src="images/Team 2.png"/></center>
 
 **Location:**  Oceanside, California

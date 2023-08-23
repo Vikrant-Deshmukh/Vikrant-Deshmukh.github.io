@@ -44,7 +44,7 @@ In summary, our NLP-based solution using BERTopic improved UPE analysis, enhanci
 
   
 
-<center><img  src="images/BERT-classification.png"/></center>
+<center><img  src="images/bert.png"/></center>
 
   
 
@@ -156,20 +156,12 @@ In summary, our NLP-based solution using BERTopic improved UPE analysis, enhanci
 
 ---
 
-## Filmed by me
+## Extra
+ 
 
-  
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-  
-
-<div  style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<div  style="text-align: justify">Besides Data Science, I also have a great passion for photography and Outdoorsports. </div>
 
 <br>
 
  
 
----
-
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>

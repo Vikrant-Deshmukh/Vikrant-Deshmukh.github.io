@@ -23,6 +23,20 @@ In my role, I worked closely with the Chief of Staff to drive strategic initiati
 
  
  
+<center><img  src="images/Cancer.png"/></center>
+
+**Location:**  Tucson, Arizona
+### Data Scientist - Graudate Research Assistant
+Assisting the Office of Community Outreach and Engagement in the characterization of the Cancer Center’s five catchment areas of southern counties of Arizona – Pima, Pinal, Cochise, Santa Cruz, and Yuma by developing an updated cancer profile of the cancer center at large and each county area.
+  
+**Key Accomplishments** 
+
+
+Analyzing national datasets, such as the Census, Behavioral Risk Factor Surveillance System (BRFSS), and American Community Survey (ACS), to collate catchment area and county-specific demographics, social and economic factors, health behaviors, health outcomes, cancer incidence, mortality, and associated disparities.
+
+Developing a public-facing data dashboard to be used by Cancer Center and community stakeholders for engagement strategies and plans.
+
+Contributing to presentations, reports, and manuscripts of COE Projects by creating reports and visualizations to support and enhance information.
 
 ---
 
